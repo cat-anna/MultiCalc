@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-02-22 19:52:47.734.cpp,D:\!BDS2006\Cprojects\MultiCalc\Unit1.cpp=D:\!BDS2006\Cprojects\MultiCalc\FncForm.cpp</Transaction>
+    <Transaction>2010-02-22 19:52:47.750.h,D:\!BDS2006\Cprojects\MultiCalc\Unit1.h=D:\!BDS2006\Cprojects\MultiCalc\FncForm.h</Transaction>
+    <Transaction>2010-02-22 19:52:47.750.dfm,D:\!BDS2006\Cprojects\MultiCalc\Unit1.dfm=D:\!BDS2006\Cprojects\MultiCalc\FncForm.dfm</Transaction>
+    <Transaction>2010-02-22 23:18:48.281.todo,D:\!BDS2006\Cprojects\MultiCalc\MultiCalc.todo=</Transaction>
+    <Transaction>2010-02-28 18:03:36.765.todo,D:\!BDS2006\Cprojects\MultiCalc\MultiCalc.todo=</Transaction>
+    <Transaction>2010-03-06 22:54:16.765.cpp,D:\!BDS2006\Cprojects\MultiCalc\MathFormula.cpp=</Transaction>
+    <Transaction>2010-03-06 22:54:19.734.cpp,D:\!BDS2006\Cprojects\MultiCalc\MathGrammar.cpp=</Transaction>
+    <Transaction>2010-03-16 15:32:25.093.cpp,D:\!BDS2006\Cprojects\MultiCalc\Unit1.cpp=D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.cpp</Transaction>
+    <Transaction>2010-03-16 15:32:25.109.h,D:\!BDS2006\Cprojects\MultiCalc\Unit1.h=D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.h</Transaction>
+    <Transaction>2010-03-16 15:32:25.109.dfm,D:\!BDS2006\Cprojects\MultiCalc\Unit1.dfm=D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.dfm</Transaction>
+    <Transaction>2010-03-16 17:55:40.859.cpp,D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.cpp=D:\!BDS2006\Cprojects\MultiCalc\FncQuality.cpp</Transaction>
+    <Transaction>2010-03-16 17:55:40.859.h,D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.h=D:\!BDS2006\Cprojects\MultiCalc\FncQuality.h</Transaction>
+    <Transaction>2010-03-16 17:55:40.859.dfm,D:\!BDS2006\Cprojects\MultiCalc\FFncQuality.dfm=D:\!BDS2006\Cprojects\MultiCalc\FncQuality.dfm</Transaction>
+    <Transaction>2010-03-16 22:17:21.265.cpp,D:\!BDS2006\Cprojects\MultiCalc\FncQuality.cpp=D:\!BDS2006\Cprojects\MultiCalc\FncProperity.cpp</Transaction>
+    <Transaction>2010-03-16 22:17:21.281.h,D:\!BDS2006\Cprojects\MultiCalc\FncQuality.h=D:\!BDS2006\Cprojects\MultiCalc\FncProperity.h</Transaction>
+    <Transaction>2010-03-16 22:17:21.281.dfm,D:\!BDS2006\Cprojects\MultiCalc\FncQuality.dfm=D:\!BDS2006\Cprojects\MultiCalc\FncProperity.dfm</Transaction>
+    <Transaction>2010-04-01 22:46:47.953.cpp,D:\!BDS2006\Cprojects\MultiCalc\PrgForm.cpp=</Transaction>
+    <Transaction>2010-04-01 22:46:47.984.dfm,D:\!BDS2006\Cprojects\MultiCalc\PrgForm.dfm=</Transaction>
+    <Transaction>2010-04-02 14:17:06.921.cpp,D:\!BDS2006\Cprojects\MultiCalc\Unit1.cpp=D:\!BDS2006\Cprojects\MultiCalc\Export.cpp</Transaction>
+    <Transaction>2010-04-02 14:17:06.937.h,D:\!BDS2006\Cprojects\MultiCalc\Unit1.h=D:\!BDS2006\Cprojects\MultiCalc\Export.h</Transaction>
+    <Transaction>2010-04-02 14:17:06.937.dfm,D:\!BDS2006\Cprojects\MultiCalc\Unit1.dfm=D:\!BDS2006\Cprojects\MultiCalc\Export.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

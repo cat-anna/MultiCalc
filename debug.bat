@@ -1,0 +1,1 @@
+Multicalc.exe \debug
